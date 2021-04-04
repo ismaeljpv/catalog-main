@@ -1,0 +1,7 @@
+GET http://localhost:8001/api/products
+
+###
+GET http://localhost:8001/api/products/users
+
+###
+POST http://localhost:8001/api/products/9/like
